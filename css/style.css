@@ -34,6 +34,7 @@ header{
 }
 .navContent li{
     margin:1px 45px;
+    
 }
 .logo{
     font-family: "Montserrat",sans-serif;
@@ -54,6 +55,7 @@ header{
     padding: 7px; 
     font-size: 17px;
     letter-spacing: 1px;
+    color: #5758a7;
 }
 .navItem a:hover{
     background-color: #32336fbd;
@@ -106,6 +108,7 @@ header{
  }
  .companyLogo a{
     text-decoration: none;
+    color: #434479;
  }
  .companyLogo a:hover{
     color: #5758a7;
